@@ -1,10 +1,10 @@
 //This program implements a stack using an array
 //The stack is a data structure that follows the LIFO (Last In First Out) principle
 //The contributors of this code are:
-//Clarence Laria: SIT/B/01-02287/2021
-//Byrone Kingsly: SIT/B/01-02287/2021
-//Valencia Nabiswa: SIT/B/01-02287/2021
-//Elon Ogonji: SIT/B/01-02287/2021
+// 1. Clarence Laria: SIT/B/01-02287/2021
+// 2. Byrone Kingsly: COM/B/01-00086/2022
+// 3. Valencia Nabiswa: COM/B/01-00103/2022
+// 4. Elon Ogonji: SIT/B/01-02917/2022
 public class StackArray {
     int[] stack;
     int top;
